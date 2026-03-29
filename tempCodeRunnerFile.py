@@ -1,0 +1,1 @@
+result_text.insert(tk.END, "-"*40 + "\n\n")
